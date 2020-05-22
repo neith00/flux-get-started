@@ -56,7 +56,7 @@ items:
             name: rmq-prometheus
           resources:
             limits:
-              cpu: 300m
+              cpu: 2 
               memory: 1024Mi
             requests:
               cpu: 250m
