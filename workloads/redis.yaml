@@ -4,6 +4,7 @@ metadata:
   labels:
     app: redis
   name: redis
+  namespace: flux
 spec:
   progressDeadlineSeconds: 600
   replicas: 1
