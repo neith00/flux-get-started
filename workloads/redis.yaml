@@ -8,6 +8,8 @@ metadata:
   namespace: flux
   annotations:
     fluxcd.io/automated: 'true'
+    fluxcd.io/locked: 'true'
+    fluxcd.io/locked_user: neith00 <ja.lauricella@gmail.com>
 spec:
   progressDeadlineSeconds: 600
   replicas: 1
