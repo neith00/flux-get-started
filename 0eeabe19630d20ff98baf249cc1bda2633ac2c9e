@@ -1,0 +1,1 @@
+{"jobID":"ef3b6dcc-9c00-0c60-9808-04956e66f60a","spec":{"type":"policy","cause":{"Message":"","User":"neith00 \u003cja.lauricella@gmail.com\u003e"},"spec":{"flux:deployment/redis":{"add":{"automated":"true"},"remove":{}}}},"result":null}
